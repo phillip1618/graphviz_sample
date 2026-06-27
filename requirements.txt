@@ -1,0 +1,5 @@
+graphviz==0.21
+networkx==3.4.2
+numpy==2.2.6
+pygraphviz==2.0
+scipy==1.15.3
