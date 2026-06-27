@@ -7,4 +7,4 @@
 3. Run `python main.py`
 4. Enjoy
 
-Within `main.py`, add the desired MTX file and change the constant MTX_FILE_NAME to the name of the added MTX file.
+To use another MTX file, add the MTX file in the root and within `main.py`, change the constant MTX_FILE_NAME to the name of the added MTX file.
