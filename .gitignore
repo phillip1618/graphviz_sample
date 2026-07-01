@@ -2,3 +2,7 @@
 
 sfdp_matrix_output
 sfdp_matrix_output.png
+
+*.mtx
+
+constant.py
